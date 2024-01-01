@@ -1,8 +1,8 @@
 ### Description
-This Machine Learning project simplifies the transition between different
-development stages. It features an intuitive mechanism for toggling between
-environments, ensuring a streamlined workflow for both local and cloud-based
-development on Google Cloud Platform.
+This Machine Learning project is meant to showcase a streamlined transition
+between different development stages. It features an intuitive mechanism for
+toggling between environments, ensuring an optimised workflow for both a local
+environment, as well as a cloud-based environment on Google Cloud Platform.
 
 ### Key Features
 - Easy Environment Switching: Toggle `ENV_MODE` in the `.env` file to seamlessly
