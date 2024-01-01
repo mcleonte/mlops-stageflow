@@ -1,5 +1,5 @@
 # MLOps StageFlow
-### Streamlined switching between local and cloud development stages.
+### Streamlined switching between local and cloud development stages within a unified project filesystem.
 
 ### Description
 This Machine Learning project is meant to showcase a streamlined transition
