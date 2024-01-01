@@ -1,0 +1,5 @@
+gcs/
+__pycache__/
+models/
+preprocessors/
+.venv

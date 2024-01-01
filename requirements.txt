@@ -1,0 +1,9 @@
+
+python-dotenv
+joblib
+kaggle
+numpy
+pandas
+scikit-learn
+tensorflow
+flask
