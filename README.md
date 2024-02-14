@@ -22,14 +22,14 @@ switch between debug, dev, staging, and prod environments.
 - use the following commands to manage your project:
 
   training:
-  - `./scripts/build.sh training`
-  - `./scripts/run.sh training`
-  - `./scripts/test.sh training`
+  - `make training-build`
+  - `make training-run`
+  - `make training-test`
 
   inference:
-  - `./scripts/build.sh inference`
-  - `./scripts/run.sh inference`
-  - `./scripts/test.sh inference`
+  - `make inference-build`
+  - `make inference-run`
+  - `make inference-test`
 
 ### Upcoming Features
   - preprocessors versioning
