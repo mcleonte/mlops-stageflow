@@ -6,7 +6,7 @@ COPY docker/training/requirements.txt .
 
 RUN /opt/conda/bin/pip install -r requirements.txt
 
-COPY docker/training/inits.sh entrypoint.sh ./
+COPY docker/training/inits.sh docker/training/entrypoint.sh ./
 
 RUN chmod +x inits.sh && chmod +x entrypoint.sh
 
